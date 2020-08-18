@@ -5,5 +5,6 @@ public class jiuyangzaitai {
         System.out.println("九阳神功第九重：九阳在天!");
         System.out.println("九阳神功第九重：九阳在天!");
         System.out.println("九阳神功第九重：九阳在天！");
+        System.out.println("乾坤大挪移！！！");
     }
 }
